@@ -7,11 +7,8 @@ Along with the above you will need to be able to connect to a version of mssql a
 
 >const config = {
     connectionString: "Driver={ODBC Driver 17 for SQL Server};
-    
                        Server={LAPTOP-HBBDN2JI};
-                       
                        Database={GraduationChecker};
-                       
                        Trusted_Connection={yes};"
 };
 
