@@ -1,0 +1,30 @@
+#header{
+    background-color: #00b7eb;
+    color: white;
+    text-align: center;
+    text-underline-position: below;
+}
+
+#container{
+    background-color: #EEE;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    overflow: hidden;
+}
+
+#content{
+    padding: 10px;
+}
+
+#body{
+    background-color: #EEE;
+}
+#red{
+    color: red;
+}
+
+#green{
+    color: green;
+}
