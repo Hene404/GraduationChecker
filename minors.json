@@ -1,0 +1,154 @@
+{
+    "Minors": [
+        {
+            "Name": "Earth and Planetary Sciences",
+            "Dept": "EASC",
+            "Code": 1,
+            "req_nums": [1, 1, 2, 4],
+            "Requirements": [
+                ["EASC_101"],
+                ["EASC_102", "EASC_103"],
+                [300, "EASC"],
+                [200, "EASC"]
+            ]
+        },
+        {
+            "Name": "Biology",
+            "Dept": "BIOL",
+            "Code": 2,
+            "req_nums": [2, 1, 2, 3],
+            "Requirements": [
+                ["BIOL_107", "BIOL_108"],
+                ["BIOL_207", "BIOL_208"],
+                [300, "BIOL"],
+                [200, "BIOL"]
+            ]
+        },
+        {
+            "Name": "Chemistry",
+            "Dept": "CHEM",
+            "Code": 3,
+            "req_nums": [2, 2, 4],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                [300, "CHEM"],
+                [200, "CHEM"]
+
+            ]
+        },
+        {
+            "Name": "Computer Science",
+            "Dept": "CMPT",
+            "Code": 4,
+            "req_nums": [1, 1, 2, 2],
+            "Requirements": [
+                ["CMPT_200"],
+                ["CMPT_201", "CMPT_204", "CMPT_229", "CMPT_291"],
+                [300, "CMPT"],
+                [200, "CMPT"]
+
+            ]
+        },
+        {
+            "Name": "Mathematics",
+            "Dept": "MATH",
+            "Code": 5,
+            "req_nums": [2, 1, 2, 4],
+            "Requirements": [
+                ["MATH_114", "MATH_115"],
+                ["MATH_120", "MATH_125"],
+                [300, "MATH"],
+                [200, "MATH"]
+            ]
+        },
+        {
+            "Name": "Physics",
+            "Dept": "PHYS",
+            "Code": 6,
+            "req_nums": [2, 2, 2],
+            "Requirements": [
+                ["PHYS_200", "PHYS_208", "PHYS_224", "PHYS_244"],
+                [300, "PHYS"],
+                [200, "PHYS"]
+            ]
+        },
+        {
+            "Name": "Planetary Physics",
+            "Dept": "EASC",
+            "Code": 7,
+            "req_nums": [4, 2],
+            "Requirements": [
+                ["EASC_206", "PHYS_226", "PHYS_242", "PHYS_252"],
+                ["EASC_334", "EASC_306", "PHYS_324"]
+            ]
+        },
+        {
+            "Name": "Psychology",
+            "Dept": "PSYC",
+            "Code": 8,
+            "req_nums": [2, 2, 4],
+            "Requirements": [
+                ["PSYC_104", "PSYC_105"],
+                [300, "PSYC"],
+                [200, "PSYC"]
+            ]
+        },
+        {
+            "Name": "Statistics",
+            "Dept": "STAT",
+            "Code": 9,
+            "req_nums": [2, 2, 2],
+            "Requirements": [
+                ["STAT_265", "STAT_266"],
+                [300, "STAT"],
+                [200, "STAT"]
+
+            ]
+        },
+        {
+            "Name": "Anthropology",
+            "Dept": "ANTH",
+            "Code": 10,
+            "req_nums": [2, 1, 1, 2],
+            "Requirements": [
+                ["ANTH_206", "ANTH_207", "ANTH_208", "ANTH_209"],
+                ["ANTH_245", "ANTH_246", "ANTH_250", "ANTH_261", "ANTH_262"],
+                ["ANTH_399"],
+                [300, "ANTH"]
+            ]
+        },
+        {
+            "Name": "Classics",
+            "Dept": "CLAS",
+            "Code": 11,
+            "req_nums": [2, 2, 2],
+            "Requirements": [
+                ["CLAS_270", "CLAS_271"],
+                [300, "CLAS"],
+                [200, "CLAS"]
+            ]
+        },
+        {
+            "Name": "Creative Writing",
+            "Dept": "CRWR",
+            "Code": 12,
+            "req_nums": [1, 4, 1],
+            "Requirements": [
+                ["CRWR_295"],
+                ["CRWR_394", "CRWR_395", "CRWR_397", "CRWR_399", "CRWR_404"],
+                ["ENGL_205", "ENGL_207", "ENGL_297"]
+            ]
+        },
+        {
+            "Name": "Economics",
+            "Dept": "ECON",
+            "Code": 13,
+            "req_nums": [1, 1, 4],
+            "Requirements":[
+                ["ECON_281"],
+                ["ECON_290", "ECON_319"],
+                [200, "ECON"]
+            ]
+        }
+    ]
+}
