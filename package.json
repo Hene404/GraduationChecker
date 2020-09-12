@@ -12,7 +12,7 @@
     "express": "^4.17.1",
     "msnodesqlv8": "^0.8.10",
     "mssql": "^6.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "requirejs": "^2.3.6"
   },
   "devDependencies": {},
